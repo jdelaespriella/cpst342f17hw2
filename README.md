@@ -1,4 +1,4 @@
 # cpst342f17hw2
 CPST 342 - HW 2
 
-Jose De La Espriella and Donna Criteron HW2 Repository
+Jose De La Espriella and Donna Crittenton HW2 Repository

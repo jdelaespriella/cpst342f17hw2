@@ -81,7 +81,7 @@ table {
  h2 {
  	 font-size: .8rem; 
  	 text-transform: uppercase;
- 	 font-family: 'Arial', sans-serif;
+ 	 font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
  	 margin-bottom: 30px;
 	 grid-column: 1 / 9;
  }

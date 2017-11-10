@@ -117,5 +117,9 @@ footer {
 	/* from https://stackoverflow.com/questions/22551730/how-to-change-header-and-footer-to-full-width */
 }
 
+li {
+    display: inline;
+    padding: 25px;
+}
 
 

@@ -77,20 +77,20 @@ table {
 
 header {
 	  width: 100%;
-	  height: 20%;
-	  position: absolute;
+	  height: 50px;
+	  position: relative;
 	  top: 0;
 	  left: 0;
-	  background-color: blue;
+	  background-color: gray;
 /* from https://stackoverflow.com/questions/22551730/how-to-change-header-and-footer-to-full-width */
 }
 
 footer {
       width: 100%;
-      height: 20%;
-      position: absolute;
+      height: 50px;
+      position: relative;
       bottom: 0;
       left: 0;
-      background-color: blue;
+      background-color: gray;
 	/* from https://stackoverflow.com/questions/22551730/how-to-change-header-and-footer-to-full-width */
 }

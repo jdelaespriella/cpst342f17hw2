@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -173,7 +173,7 @@
       <workItem from="1510351042875" duration="117000" />
       <workItem from="1510351359052" duration="2040000" />
       <workItem from="1510420953099" duration="4608000" />
-      <workItem from="1510512140100" duration="690000" />
+      <workItem from="1510512140100" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="Added style.css reference">
       <created>1510329992824</created>
@@ -357,11 +357,25 @@
       <option name="project" value="LOCAL" />
       <updated>1510512882235</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Updated Webstorm files">
+      <created>1510512906861</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1510512906861</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updated Readme with Donna's Statement">
+      <created>1510515104001</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1510515104002</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16887000" />
+    <option name="totallyTimeSpent" value="17452000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,8 +460,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Corrected Header and footer" />
-    <MESSAGE value="Moved links to header and footer" />
     <MESSAGE value="Updated Header and Footer to stop overflow into body." />
     <MESSAGE value="Added a div id &quot;content&quot; to create grid" />
     <MESSAGE value="Created id names for each paragraph to arrange them correctly." />
@@ -471,7 +483,9 @@
     <MESSAGE value="About.html using bootstrap4" />
     <MESSAGE value="Updated Readme.md for Objective 3" />
     <MESSAGE value="Updated Readme.md for Objective 3 Jose's comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme.md for Objective 3 Jose's comments" />
+    <MESSAGE value="Updated Webstorm files" />
+    <MESSAGE value="Updated Readme with Donna's Statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme with Donna's Statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -733,8 +747,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

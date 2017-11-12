@@ -7,9 +7,9 @@ Imported 1 Google Font "Barlow Condensed', sans-serif"\
 Added a Font Stack
 
 ### Ojective 3 - Donna's Feedback
-Donna's opinion with writing my own grid versus using Bootstrap:
-  I prefer Bootstrap. For starters, installing was a snap using CDN compared to downloading and running css. Then, all I did was copy and paste the link and scripts from http://getbootstrap.com/docs/4.0/getting-started/download/ to our pages. When creating multiple grids, you can use shortcuts/repeat to where you want your grids.
+While bootstrap is easier to download, linking it to the html page was difficult . Everything I tried, by example, I found myself doing extra coding. But because I've never had experience with coding, I had a hard time understanding where and how to write the codes. I wish there was a section in the book regarding Bootstrap.
 
+The style css was a easier. Using the examples the professor used in class and watching other examples as well as reading,  I was able to use style code easily.  The directions given on the homework 2 was pretty straight forward.  Using the style link, I was able to link both Jose and my page onto one page.
 
 ### Objective 3 - Jose's Feedback
 Understanding using the grid's was a little more difficult that I expected, either way. 

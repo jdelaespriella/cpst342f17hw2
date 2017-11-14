@@ -3,8 +3,11 @@ CPST 342 - HW 2
 
 Jose De La Espriella and Donna Crittenton HW2 Repository
 
+
+### Extra Credit Attempts
 Imported 1 Google Font "Barlow Condensed', sans-serif"\
-Added a Font Stack
+Added a Font Stack\
+Attempted fully semantic HTML
 
 ### Ojective 3 - Donna's Feedback
 While bootstrap is easier to download, linking it to the html page was difficult . Everything I tried, by example, I found myself doing extra coding. But because I've never had experience with coding, I had a hard time understanding where and how to write the codes. I wish there was a section in the book regarding Bootstrap.
